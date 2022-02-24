@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(Poppins.ttf)
+}
+
+body{
+    /* Font */
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+
+    /* Sfondo */
+    background-image: url("tramonto.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    /* Allineamento Testo */
+    text-align: center;
+}
